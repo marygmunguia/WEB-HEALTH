@@ -1,0 +1,11 @@
+ADMIN
+mariajhosegarcia@gmail.com
+maria
+
+MEDICO
+karla@gmail.com
+karla
+
+CLIENTE
+marcela@gmail.com
+marcela

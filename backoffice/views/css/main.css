@@ -1,0 +1,32 @@
+.bg1 {
+    background-color: #fff;
+}
+
+input:invalid,
+textarea:invalid {
+	border-color: red;
+	border-radius: 5px;
+}
+
+
+.bg-1, .btn-1{
+	background-color: #04a4cc;
+	color:white;
+}
+
+.card-1{
+	border-top: 3px solid #04a4cc;
+}
+
+.card-principal-1{
+	background-color:  #04a4cc;
+	color: #fff;
+}
+
+.text-1{
+	color:#04a4cc;
+}
+
+a:link{
+    color: #04a4cc;
+}
